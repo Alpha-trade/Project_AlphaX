@@ -1,1 +1,2 @@
-# Project_AlphaX
+# ProjectX
+This is POC of Algo trading
